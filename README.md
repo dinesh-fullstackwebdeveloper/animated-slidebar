@@ -27,7 +27,7 @@ To get a local copy up and running follow these steps:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/dinesh-fullstackwebdeveloper/animated-text.git
+    git clone https://github.com/dinesh-fullstackwebdeveloper/animated-slidebar.git
     ```
 
 2. **Navigate to the Project Directory**
